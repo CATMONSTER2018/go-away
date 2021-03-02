@@ -39,6 +39,7 @@ var profanities = []string{
 	"incest",
 	"jerk",
 	"jizz",
+	"kike",
 	"labia",
 	"muff",
 	"naked",
